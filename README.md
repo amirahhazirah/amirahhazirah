@@ -1,5 +1,11 @@
 # 👋 Hello, I am Amirah Hazirah!
 
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQH1yvktIC4bYA/profile-displayphoto-scale_200_200/B56Z.HahhDKAAc-/0/1784683305301?e=2147483647&v=beta&t=ealHYdLFd3YsllHr2yhDE-_tyq-znUKpQEx-2cmcE5w" width="150" height="150" style="border-radius: 50%;" alt="Amirah Hazirah Profile Picture">
+</p>
+
+<h1 align="center">Hi, I'm Amirah Hazirah! 👋</h1>
+
 I am a First Year student in Data Engineering at University of Technology Malaysia (UTM).
 
 ---
